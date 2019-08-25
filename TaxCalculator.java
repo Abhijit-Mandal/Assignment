@@ -28,7 +28,7 @@ public class TaxCalculator {
 		}
 		else 
 		{
-			System.out.println("Invalid choice");
+			System.out.println("-1.0");
 		}
 		
 		}
