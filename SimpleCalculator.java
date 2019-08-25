@@ -33,11 +33,6 @@ public class SimpleCalculator {
 		System.out.println(result);
 		break;
 		
-		case ('^'):
-			result = a^b;
-		System.out.println(result);
-		break;
-		
 		default:
 			System.out.println("Invalid choice");
 			break;
